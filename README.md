@@ -1,6 +1,6 @@
 ### Hi my name is Karolis 👋
 
-My name is Karolis and I am a recent graduate in Data Analitycs. 
+My name is Karolis and I am a recent graduate in Data Analytics. 
 
 Some things about me:
 - 🌱 I’m currently learning basics of pgAdmin 4 and Tableu
