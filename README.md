@@ -7,5 +7,5 @@ During my course, I gained hands-on experience working with SQL in BigQuery, whi
 I'm excited to bring my skills and enthusiasm to a data analyst role, where I can continue to develop my expertise in using data to drive business decisions. Thanks for taking the time to read my profile, and please feel free to reach out if you have any questions or opportunities to discuss!
 
 Some things about me:
-- 🌱 I’m currently learning basics of pgAdmin 4 and Tableu
+- 🌱 I’m currently learning basics of pgAdmin 4, PowerBI and Tableu
 - 📫 How to reach me:  [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karolis-markovas-950383222/)
