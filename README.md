@@ -2,7 +2,7 @@
 
 ### Hi there! I'm Karolis 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karolis-markovas-950383222/)
+- 📫 How to reach me:  [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karolis-markovas-950383222/)
 
 ---
 
