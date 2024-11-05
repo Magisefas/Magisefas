@@ -1,11 +1,30 @@
-### Hi my name is Karolis 👋
+---
 
-I recently completed a data analytics course that covered a range of topics from SQL in BigQuery to data visualization using dashboards adn I am still improving my knowledge further. I'm passionate about using data to make informed decisions, and I'm excited to continue learning and growing as a data analyst.
+### Hi there! I'm Karolis 👋
 
-During my course, I gained hands-on experience working with SQL in BigQuery, which allowed me to extract, manipulate, and analyze data from large datasets. I also learned how to create visually appealing and interactive dashboards using various tools like Google Data Studio. As a result, I'm comfortable with data manipulation, data visualization, and data analysis.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karolis-markovas-950383222/)
 
-I'm excited to bring my skills and enthusiasm to a data analyst role, where I can continue to develop my expertise in using data to drive business decisions. Thanks for taking the time to read my profile, and please feel free to reach out if you have any questions or opportunities to discuss!
+---
 
-Some things about me:
-- 🌱 I’m currently learning basics of Fabric
-- 📫 How to reach me:  [![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karolis-markovas-950383222/)
+#### 🛠️ Languages & Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-228B22?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=for-the-badge&logo=looker&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Qlik](https://img.shields.io/badge/Qlik-31B57A?style=for-the-badge&logo=qlik&logoColor=white)
+
+---
+
+I'm a **Data Engineer and BI Developer** who loves transforming raw data into actionable insights. My expertise spans SQL, DAX, data modeling, and visualization, and I'm currently expanding my skills with **Microsoft Fabric**. I have experience building robust **data marts** and **Data Vault 2.0** architectures, ensuring reliable data pipelines and efficient data storage.
+
+### My Skills & Experience
+
+- **Data Manipulation & Analysis**: Proficient in SQL for complex queries and data handling in SSMS and BigQuery.
+- **Data Modeling**: Experienced with **Data Vault 2.0** for organizing large-scale data storage, as well as building data marts to optimize reporting.
+- **Data Visualization**: Proficient in Power BI, Qlik, and Looker, creating interactive, insightful dashboards.
+- **Data Engineering**: Skilled in building ETL processes, ensuring data reliability, consistency, and accessibility.
+
+I’m always eager to leverage my skills to drive impactful data solutions. Thanks for stopping by—feel free to connect or reach out if you’d like to chat about data!
+
+---
